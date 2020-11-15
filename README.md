@@ -1,5 +1,5 @@
 # Info-Retrieval-ChatBot
-Information Retrieval (IR) has many applications outside of search engines. This project develop a chatbot using IR techniques. While chatbots, also known as conversational agents, seem like a far stretch from IR, they have a natural synergy if you start from a collection of conversations. 
+Information Retrieval (IR) has many applications outside of search engines. This project develops a chatbot using IR techniques. While chatbots, also known as conversational agents, seem like a far stretch from IR, they have a natural synergy if you start from a collection of conversations. 
 This project consists of two parts. In Part 1, I created a ground truth dataset of conversations ranked for relevance. In Part 2, I used this dataset to build and evaluate the chatbot. 
 
 This project could help IR learner in many ways: 1) learn how to apply IR to a non-traditional IR task; 2) Develop skills in working with messy text data; 3) Learn how to annotate relevance data, when working with a large dataset; 4) Become more familiar with different ranking and retrieval methods for specific IR applications;
