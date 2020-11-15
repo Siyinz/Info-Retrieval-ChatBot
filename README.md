@@ -6,7 +6,7 @@ This project could help IR learner in many ways: 1) learn how to apply IR to a n
 5) Develop skills at annotating and manually ranking for IR; 6) Improve software development skills; 7) Practice working with larger datasets.
 
 ### Conversation Data 
-The dataset includes a large corpus of 2,326,394 conversation pairsfrom Reddit. Here, each messagem has one or more replies to it,r_i, . . . , r_k. Both messages and replies have unique identifies (message_id and response_id). I use the message data in this dataset to match with the user queries and to reply to the user with one of the responses.
+The dataset includes a large corpus of 2,326,394 conversation pairs from Reddit. Here, each message has one or more replies to it,r_i, . . . , r_k. Both messages and replies have unique identifiers (message_id and response_id). I use the message data in this dataset to match with the user queries and to reply to the user with one of the responses.
 
 ### Part 1: Ground Truth Annotation 
 Reply relevance is scored on the following scale:
