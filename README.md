@@ -21,3 +21,5 @@ In this part, I applied inverted index to all of the messages and used BM25 to r
 The interface is created by Flask.
 
 ![chatbot image](https://github.com/Siyinz/Info-Retrieval-ChatBot/blob/main/chatbot.png)
+
+This is a class project for SI 650.
